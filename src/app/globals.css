@@ -19,9 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< HEAD
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 }
+=======
+>>>>>>> 8313ccd (Initial commit from Create Next App)
